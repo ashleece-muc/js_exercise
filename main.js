@@ -11,5 +11,5 @@
 
 
 
-const s = 'Hello World!'
-console.log(s.substring(0, 5).toLocaleUpperCase());
+const s = 'Technology, computers, it, code';
+console.log(s.split(','));
