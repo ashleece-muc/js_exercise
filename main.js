@@ -1,3 +1,3 @@
-alert("Hello World");
-console.error("this is an error")
-console.warn("this is warning");
+const name = "John";
+const age = 30;
+const isCool = true;
